@@ -1,4 +1,4 @@
-# GAIH Student Repo Example
+# GAIH Introduction to Machine Learning Course Student Project
 ![](img/newlogo.png)
 
 **Course Date:** 21.03.2021  
@@ -8,8 +8,8 @@
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
-## Project Name
-Description of your project.
+## Introduction to Machine Learning
+A significant starting project for studying and applying machine learning processes and algorithms
 
 ## Requirements
 ```
@@ -20,5 +20,5 @@ Some python libraries
 ---
 
 ### Certification
-![](img/TopLearnerCertificate.png)
+
 
