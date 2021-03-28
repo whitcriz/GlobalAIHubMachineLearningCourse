@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** DD.MM.YYYY  
+**Course Date:** 21.03.2021  
 **Name:** Ümmü Gülsüm  
 **Surname:** Karabudak  
 **Email:** diferensiyelgeometri@gmail.com  
